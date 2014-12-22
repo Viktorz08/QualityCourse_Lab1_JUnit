@@ -26,5 +26,8 @@
         <module name="Lab1_Unit_Mock" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lab1_Unit" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
